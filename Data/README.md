@@ -17,4 +17,4 @@ The first dataset looks promising because it does not have many NaN values unlik
 
 ### APIs
 
-There are APIs to gather this data such as the Open Movie Database API, https://www.omdbapi.com/, but to collect htis data would require a lot of manual effort and we are also limited to 1000 API calls a day on the free version. However, this route would give us a lot more data such as ratings from all of Metacritic, IMDb, and Rotten Tomatoes ratings all in one.
+There are APIs to gather this data such as the Open Movie Database API, https://www.omdbapi.com/, but to collect this data would require a lot of manual effort and we are also limited to 1000 API calls a day on the free version. However, this route would give us a lot more data such as ratings from all of Metacritic, IMDb, and Rotten Tomatoes ratings all in one.
