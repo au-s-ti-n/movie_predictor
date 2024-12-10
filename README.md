@@ -1,5 +1,5 @@
 # movie_predictor
-A movie predictor for the final project for CSCI 183
+A movie predictor project for CSCI 183
 
 ## Set Up
 
