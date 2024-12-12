@@ -1,4 +1,4 @@
-# movie_predictor
+# Pre-Release Movie Ratings Predictor
 A movie predictor project for CSCI 183
 
 ## Set Up
